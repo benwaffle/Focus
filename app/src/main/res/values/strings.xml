@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="accessibility_service_label">Focus App</string>
+    <string name="accessibility_service_description">Description for acc service</string>
+</resources>
